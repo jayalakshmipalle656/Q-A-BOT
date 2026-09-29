@@ -1,0 +1,13 @@
+streamlit
+sentence-transformers
+transformers
+torch
+numpy
+scikit-learn
+pandas
+pytesseract
+Pillow
+python-docx
+python-pptx
+PyMuPDF
+tiktoken
